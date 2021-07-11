@@ -1,4 +1,4 @@
-import {CreateRoom1} from '../models/room1/room1';
+import { CreateRoom1 } from 'src/room1/room1';
 
 const baseScene = new Entity();
 engine.addEntity(baseScene);
